@@ -56,4 +56,4 @@ Worst Case: O(logn)
  
 Best Case: O(1) 
 Worst Case: O(n)
-
+Linkedin post:https://www.linkedin.com/posts/farasat-magray-4a911b28a_algorithms-linearsearch-binarysearch-activity-7286665154249859073-2QAj?utm_source=share&utm_medium=member_android
